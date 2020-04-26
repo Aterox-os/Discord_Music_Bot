@@ -1,0 +1,1 @@
+Please Replace ("TOKEN") with yout Token from https://discordapp.com/developers/applications
